@@ -1,7 +1,9 @@
 ForIterator
 ===========
 
-C++11 range-for loop with iterators
+C++11 range-for loop with iterators.
+This isn't state-of-the-art ;-)
+Look into Boost iterator transformers for the whole range of possible iterators.
 
 Usage:
 
